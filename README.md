@@ -29,6 +29,8 @@ resume_screening_app/
 1️⃣ Clone the Repository
 
 git clone https  :https://github.com/Sohan124/RESUME-RANKING-AND-SCREENING-PROJECT.git
+
+
 2️⃣ (Optional) Create a Virtual Environment
 
 python -m venv .venv
